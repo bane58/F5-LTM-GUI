@@ -1,11 +1,8 @@
 # F5-LTM-GUI
 Project Title
 F5-LTM-GUI
+![alt text](https://raw.githubusercontent.com/bane58/F5-LTM-GUI/master/SS.JPG)
 
-
-Built With
-Powershell
-Versioning
 
 Authors
 Tony Unger - Initial work
@@ -18,5 +15,4 @@ Uses the following module
 https://www.powershellgallery.com/packages/f5-ltm
 
 
-![alt text](https://raw.githubusercontent.com/bane58/F5-LTM-GUI/master/SS.JPG)
 
