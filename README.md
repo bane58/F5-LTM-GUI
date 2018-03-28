@@ -18,5 +18,5 @@ Uses the following module
 https://www.powershellgallery.com/packages/f5-ltm
 
 
-![alt text](https://raw.githubusercontent.com/bane58/F5-LTM-GUI/master/ss.jpg)
+![alt text](https://raw.githubusercontent.com/bane58/F5-LTM-GUI/master/SS.JPG)
 
